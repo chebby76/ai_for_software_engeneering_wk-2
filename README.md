@@ -101,17 +101,13 @@ cd mental_health_analysis
 # Set up virtual environment
 python3 -m venv mh_env
 source mh_env/bin/activate
-
+---
 # Install dependencies
 pip install -r requirements.txt
 
 # Launch the notebook
 jupyter notebook
-📈 Key Notebooks
-Notebook	Description
-01_data_preprocessing.ipynb	Data cleaning, transformation, memory optimization
-02_eda_visualization.ipynb	Histograms, bar plots, heatmaps, correlations
-03_model_training.ipynb	Baseline ML model & evaluation 📊
+
 🧾 Ethical Reflections
 This project acknowledges potential biases in mental health data and strives to promote:
 
