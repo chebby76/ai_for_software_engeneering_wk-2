@@ -43,11 +43,6 @@ pip install -r requirements.txt
 
 # Launch the notebook
 
-
-
-
-
-
 🧠 Mental Health Data Science Project (Jupyter + Ubuntu)
 🎯 Project Goal
 To analyze a large mental health dataset, extract meaningful insights through EDA, and build a predictive model to support mental health diagnostics or awareness efforts.
@@ -65,7 +60,7 @@ mental_health_analysis/
 └── utils/
     └── preprocessing.py
 🔧 Ubuntu Terminal Setup (Run these in Terminal)
-bash
+ ```bash
 markdown
 # 🧠 Mental Health Data Analysis with ML  
 > Empowering insights through data, one thought at a time. 🌱
